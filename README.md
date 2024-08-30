@@ -91,3 +91,5 @@ The command line isnt he only way to search valueble information! Let's go into 
 <br />
 
 This IP address belongs to is in "Switzerland" and the reverse DNS lookup, or the resolved host, points to "<b>mail-40140.protonmail.ch</b>", and we can also see the ASN, or the autonomouse system number, belongs to "<b>Proton AG</b>", which confirms that we are dealing with a Proton Mail email system that originally sent this email. This obviously does not match up with Chase Bank, which is what the sender wanted us to belive by spoofing the sender address as "<b>alerts@chase.com</b>.
+
+<b>THIS WAS FOR EDUCATIONAL PURPOSES ONLY</b>
