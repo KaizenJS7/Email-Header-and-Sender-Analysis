@@ -1,4 +1,4 @@
-<h1>Email Header and Sender Analysis (Hands On)</h1>
+<h1>Email Header and Sender Analysis</h1>
 
 I opened this Email (sample1.eml) in Thunderbird, as we can see the email just looks like a normal email from Chase Bank, appears to be asking to restore or reactivate our account and we can see some of our comman headers. We have the From field (Red), which is "alerts@chase.com", we have the To field (Orange) which is "Bob Sanders", the Subject line (Green) which is " Your Bank Account has been blocked due to unusual activities", and as well as the Time stap (Purple) which is "5/1/24, 16:04".</b>
 
